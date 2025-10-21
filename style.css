@@ -1,0 +1,21 @@
+body (
+bacground color: #FFFFFE0; /* warna kuning cerah */
+  font-fanily: Arial, sans-serif; /* jenis huruf yang yang bersih dan mudah di baca */
+  color: #191970; /* Warna teks utama (Biru Gelap) */
+
+  )
+  .kartu-profil (
+  width: 300px;
+  margin:50px auto; /* 50px jarak atas/bawah, auto menengahkan  kiri/kanan */
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* Membuat sudut menjadi melengkung */
+  box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
+  text-align: canter
+)
+
+.kartu-profil log (
+  width:150px;
+  border-radius: 50px; /* Trik untuk membuat gambat persegi menjadi lingkarann
+  )
+  
